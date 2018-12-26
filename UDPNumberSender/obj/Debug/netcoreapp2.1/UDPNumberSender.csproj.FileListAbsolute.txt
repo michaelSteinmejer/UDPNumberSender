@@ -1,0 +1,11 @@
+C:\Source\UDP\UDPNumberSender\UDPNumberSender\bin\Debug\netcoreapp2.1\UDPNumberSender.deps.json
+C:\Source\UDP\UDPNumberSender\UDPNumberSender\bin\Debug\netcoreapp2.1\UDPNumberSender.runtimeconfig.json
+C:\Source\UDP\UDPNumberSender\UDPNumberSender\bin\Debug\netcoreapp2.1\UDPNumberSender.runtimeconfig.dev.json
+C:\Source\UDP\UDPNumberSender\UDPNumberSender\bin\Debug\netcoreapp2.1\UDPNumberSender.dll
+C:\Source\UDP\UDPNumberSender\UDPNumberSender\bin\Debug\netcoreapp2.1\UDPNumberSender.pdb
+C:\Source\UDP\UDPNumberSender\UDPNumberSender\obj\Debug\netcoreapp2.1\UDPNumberSender.csprojAssemblyReference.cache
+C:\Source\UDP\UDPNumberSender\UDPNumberSender\obj\Debug\netcoreapp2.1\UDPNumberSender.csproj.CoreCompileInputs.cache
+C:\Source\UDP\UDPNumberSender\UDPNumberSender\obj\Debug\netcoreapp2.1\UDPNumberSender.AssemblyInfoInputs.cache
+C:\Source\UDP\UDPNumberSender\UDPNumberSender\obj\Debug\netcoreapp2.1\UDPNumberSender.AssemblyInfo.cs
+C:\Source\UDP\UDPNumberSender\UDPNumberSender\obj\Debug\netcoreapp2.1\UDPNumberSender.dll
+C:\Source\UDP\UDPNumberSender\UDPNumberSender\obj\Debug\netcoreapp2.1\UDPNumberSender.pdb
